@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on desktop applications, mobile apps, and web development.<br>👯 I’m looking to collaborate on Artificial intelligence-based projects.<br>🤝 I’m seeking help developing a mobile app that predicts man's future.<br>🌱 I’m currently learning mobile app development with Flutter.<br>💬 Ask me about desktop application development.<br>⚡ Fun fact - I have the incredible ability to forget what I did just a minute ago!
+🔭 I’m currently working on desktop applications, mobile apps, and web development.<br>👯 I’m looking to collaborate on Artificial Intelligence-based projects.<br>🤝 I’m seeking help developing a mobile app that predicts man's future.<br>🌱 I’m currently learning mobile app development with Flutter.<br>💬 Ask me about desktop application development.<br>⚡ Fun fact - I have the incredible ability to forget what I did just a minute ago!
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Imesh Isuranga, a Fulls-Stack developer from Sri Lanka.</h1>
-<img src="https://raw.githubusercontent.com/Imesh-Isuranga/Imesh-Isuranga/main/1.jpg" alt="spring" width="800" height="300" /></a>
+<img src="https://raw.githubusercontent.com/Imesh-Isuranga/Imesh-Isuranga/main/1.jpg" alt="spring" width="1000" height="300" /></a>
 <p>I am capable of adapting to new technologies and am a hardworking, broad-minded, and forward-thinking person.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
